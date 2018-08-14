@@ -1,6 +1,8 @@
 # ARmol
 This is an AR experimentation witch AR.js and muliple markers.
 
+Demo : https://www.youtube.com/watch?v=t9nTN1XyDQs
+
 # Installation
 1. Download the project in your local disk
 2. Go to the directory's ARmol
