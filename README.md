@@ -1,5 +1,5 @@
 # ARmol
-This is an AR experimentation with AR.js and muliple markers.
+This is an AR experimentation with AR.js and multiple markers.
 
 Demo : https://www.youtube.com/watch?v=t9nTN1XyDQs
 
