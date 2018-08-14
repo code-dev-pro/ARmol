@@ -1,0 +1,6 @@
+REMARK exp. H-Cl bond length = 1.275 A
+HETATM    1 CL           1      -0.967   0.227   0.000
+HETATM    2  H           2       0.246   0.620   0.000
+CONECT    1    2
+CONECT    2    1
+END

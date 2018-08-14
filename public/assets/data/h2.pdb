@@ -1,0 +1,6 @@
+REMARK exp. H-H bond length = 0.74 A
+HETATM    1  H           1      -0.390   0.178  -0.444
+HETATM    2  H           2       0.014   0.318   0.160
+CONECT    1    2
+CONECT    2    1
+END

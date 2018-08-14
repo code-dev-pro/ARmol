@@ -1,0 +1,11 @@
+REMARK exp. N-H bond length = 1.015 A
+REMARK exp. HNH bond angle = 106.6
+HETATM    1  N           1      -0.809   0.253   0.020
+HETATM    2  H           2      -0.807  -0.762   0.020
+HETATM    3  H           3       0.163   0.545   0.020
+HETATM    4  H           4      -1.199   0.542  -0.871
+CONECT    1    2    3    4
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+END
